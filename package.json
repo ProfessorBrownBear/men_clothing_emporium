@@ -1,0 +1,20 @@
+{
+  "name": "men_clothing_emporium",
+  "version": "1.0.0",
+  "description": "This project demonstrates creating a node application on the local file system, pushing it to GitHUB.com,  deploying it to a public server called railway.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProfessorBrownBear/men_clothing_emporium.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProfessorBrownBear/men_clothing_emporium/issues"
+  },
+  "homepage": "https://github.com/ProfessorBrownBear/men_clothing_emporium#readme"
+}
