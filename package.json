@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/ProfessorBrownBear/men_clothing_emporium/issues"
   },
-  "homepage": "https://github.com/ProfessorBrownBear/men_clothing_emporium#readme"
+  "homepage": "https://github.com/ProfessorBrownBear/men_clothing_emporium#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "mongoose": "^8.15.1",
+    "nodemon": "^3.1.10"
+  }
 }
